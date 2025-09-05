@@ -4,6 +4,10 @@ I have developed the app layout for the given figma prototype and there is the s
 video : 
 
 
+https://github.com/user-attachments/assets/80ef66cc-f23a-4031-aa4d-9c4f6b9b58bd
+
+
+
 
 
 ## Step 1: Start Metro
